@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @Ulsaa-dev
+- 👀 I’m interested in Python and Backend
+- 🌱 I’m currently learning PostgreSQL
+- 📫 How to reach me You don't
